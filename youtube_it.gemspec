@@ -4,14 +4,14 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{youtube_it}
-  s.version = "2.2.0"
+  s.name = "youtube_it"
+  s.version = "2.3.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["kylejginavan", "chebyte", "mseppae"]
-  s.date = %q{2012-02-14}
-  s.description = %q{Upload, delete, update, comment on youtube videos all from one gem.}
-  s.email = %q{kylejginavan@gmail.com}
+  s.authors = ["kylejginavan", "chebyte", "mseppae", "thomsbg"]
+  s.date = "2012-03-01"
+  s.description = "Upload, delete, update, comment on youtube videos all from one gem."
+  s.email = "kylejginavan@gmail.com"
   s.extra_rdoc_files = [
     "README.rdoc"
   ]

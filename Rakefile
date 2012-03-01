@@ -8,7 +8,7 @@ begin
     gem.description = %Q{Upload, delete, update, comment on youtube videos all from one gem.}
     gem.email = "kylejginavan@gmail.com"
     gem.homepage = "http://github.com/kylejginavan/youtube_it"
-    gem.authors = ["kylejginavan","chebyte", "mseppae"]
+    gem.authors = ["kylejginavan","chebyte", "mseppae", "thomsbg"]
   end
   Jeweler::GemcutterTasks.new
 rescue LoadError
